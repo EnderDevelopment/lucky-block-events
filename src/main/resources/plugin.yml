@@ -1,0 +1,10 @@
+name: LuckyBlockEvents
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A plugin that adds lucky block events to Minecraft.
+api-version: "1.21"
+commands:
+  luckyblock:
+    description: Place a lucky block.
+    usage: /luckyblock
